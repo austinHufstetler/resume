@@ -37,7 +37,7 @@ h2 {
 }
 
 .text-warning {
-  color: #ECDB54 !important;
+  color: #cfdc46 !important;
 }
 
 .subheading {
@@ -59,7 +59,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #6B5B95;
+  color: #5246dc;
 }
 
 .list-social-icons a .fa-lg {
@@ -71,7 +71,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #6B5B95;
+  color: #5246dc;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
